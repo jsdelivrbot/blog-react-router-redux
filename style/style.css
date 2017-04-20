@@ -1,0 +1,17 @@
+form a {
+  margin-left: 5px;
+}
+
+p {
+  text-align: justify;
+}
+
+.ajax-spinner {
+  background-image: url("../src/img/ajax-loader.gif");
+  background-size: cover;
+  margin: auto;
+  margin-top: 100px;
+  width: 20px;
+  height: 20px;
+
+}
